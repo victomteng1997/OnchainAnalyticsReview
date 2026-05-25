@@ -2,7 +2,7 @@
 
 Static review site for on-chain analytics tools, built with Astro and ready for GitHub Pages.
 
-**Default URL**: `https://greydgl.github.io/OnchainAnalyticsReview/`
+**Default URL**: `https://victomteng1997.github.io/OnchainAnalyticsReview/`
 
 ## Local development
 
@@ -28,7 +28,7 @@ Push this project to a GitHub repository named `OnchainAnalyticsReview` and enab
 Default deploy target:
 
 ```js
-const SITE_URL = 'https://greydgl.github.io';
+const SITE_URL = 'https://victomteng1997.github.io';
 const BASE_PATH = '/OnchainAnalyticsReview';
 ```
 
